@@ -2,7 +2,7 @@
 
 Basta importar o mesmo dataset utilizado na POC [utilizando streams](https://github.com/ErickWendel/concat-large-files-nodejs-yt)
 
-Baixa os dois arquivos do kaggle, cria uma pasta /dataset no root do projeto, e joga esse dois arquivos lá.
+Baixa os dois arquivos do kaggle, cria uma pasta /dataset no root do projeto, extrai os arquivos e joga ambos no diretório.
 
 após isso rode:
 
